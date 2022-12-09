@@ -65,7 +65,7 @@ body {
     margin-right: 10px;
     width: 15px;
     height: 13px;
-    background: url('./img/favorite.png') center/ contain no-repeat;
+    background: url('../../img/favorite.png') center/ contain no-repeat;
 }
 .profile__favorite_count {
     padding-bottom: 2px;
